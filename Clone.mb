@@ -1,0 +1,14 @@
+__How to do cloning of Repository__
+
+first for cloning, slect the folder in your #local computer. Open with Git Bash and write git clone and paste the link of your repsository.
+Then check git status --> it will show # red in main compenents means not save
+check git Add . --> it work as save. & to return to # blue.
+then check git status --> now it will shows blue.
+then commit to know what you have done in last step.
+if you have created new file in your local folder and ceck git status it will show red becuase it isn't save
+then do git add . 
+check git status --> it'll added
+then commit --> to know what you have done.
+to have your data in online gitHub account, write git push
+it will give you link, when you copy and paste it and everything will be directed to gitHub repository which you have cloned.
+
